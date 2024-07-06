@@ -1,5 +1,4 @@
 # Import everything
-from dotenv import load_dotenv
 import random
 import os
 import google.generativeai as genai
@@ -12,7 +11,6 @@ import ffmpeg
 from datetime import timedelta
 
 import subprocess
-load_dotenv()
 
 # Ask for video info
 title = input("\nEnter the name of the video >  ")
