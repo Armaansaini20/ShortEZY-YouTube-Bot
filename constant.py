@@ -1,1 +1,1 @@
-gemini_key='AIzaSyAbDXVBWkiikOQl7vCS0kK8HFGRc4zY_U8'
+gemini_key=''
